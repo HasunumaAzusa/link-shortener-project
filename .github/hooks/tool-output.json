@@ -4,7 +4,7 @@
     "postToolUse": [
       {
         "type": "command",
-        "bash": "cat > tmp/$(date +%s).json"
+        "bash": ""
       }
     ]
   }
